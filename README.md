@@ -15,3 +15,5 @@
 ## [Risk Based Internal Auditing](https://github.com/nancyalaswad90/Certifications/blob/main/Risk%20Based%20Internal%20Auditing.md)
 
 ## [Preparing to CFA Exam](https://github.com/nancyalaswad90/Certifications/blob/main/Preparing%20to%20CFA%20Exam.md)
+
+## Master Marks : [Page 1](https://github.com/nancyalaswad90/Certifications/blob/main/Master%20Marks%20Page%201.md) , Page 1
