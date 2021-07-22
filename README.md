@@ -16,4 +16,4 @@
 
 ## [Preparing to CFA Exam](https://github.com/nancyalaswad90/Certifications/blob/main/Preparing%20to%20CFA%20Exam.md)
 
-## Master Marks : [Page 1](https://github.com/nancyalaswad90/Certifications/blob/main/Master%20Marks%20Page%201.md) , Page 1
+## Master Marks : [Page 1](https://github.com/nancyalaswad90/Certifications/blob/main/Master%20Marks%20Page%201.md) , [Page 2](https://github.com/nancyalaswad90/Certifications/blob/main/Page%202.md)
