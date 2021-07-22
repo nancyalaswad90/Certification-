@@ -39,6 +39,9 @@
 - [Communication Skills ](https://github.com/nancyalaswad90/Certifications/blob/main/Communication%20Skills%20.md)
 
 
+-  [Financial Principles](https://github.com/nancyalaswad90/Certifications/blob/main/Financial%20Principles.md)
+
+
 
 
 
