@@ -13,9 +13,9 @@
 ------------------------------
 
 
-## [Preparing to CFA Exam](https://github.com/nancyalaswad90/Certifications/blob/main/Preparing%20to%20CFA%20Exam.md)
+-  [Preparing to CFA Exam](https://github.com/nancyalaswad90/Certifications/blob/main/Preparing%20to%20CFA%20Exam.md)
 
-
+- [Prepared Course to Certified Internet Marketing Practitioner ( CIMP)](https://github.com/nancyalaswad90/Certifications/blob/main/Prepared%20Course%20to%20Certified%20Internet%20Marketing%20Practitioner%20(%20CIMP).md)
 
 
 -----------------------------
