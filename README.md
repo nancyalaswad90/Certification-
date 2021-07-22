@@ -36,6 +36,10 @@
 -  [Risk Based Internal Auditing](https://github.com/nancyalaswad90/Certifications/blob/main/Risk%20Based%20Internal%20Auditing.md)
 
 
+- [Communication Skills ](https://github.com/nancyalaswad90/Certifications/blob/main/Communication%20Skills%20.md)
+
+
+
 
 
 -----------------------------
