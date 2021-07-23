@@ -32,6 +32,7 @@
 - [Money market](https://github.com/nancyalaswad90/Certifications/blob/main/Money%20market.md)
 
 
+- [Internal Audit Workshop](https://github.com/nancyalaswad90/Certifications/blob/main/Internal%20Audit%20Workshop.md)
 
 -  [Risk Based Internal Auditing](https://github.com/nancyalaswad90/Certifications/blob/main/Risk%20Based%20Internal%20Auditing.md)
 
