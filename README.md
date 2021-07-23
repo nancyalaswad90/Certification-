@@ -46,6 +46,17 @@
 
 
 
+
+---------------------------
+
+> ## Programming Certifications
+
+
+- [Oracle Essentials Application R12](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20Essentials%20Application%20R12.md)
+
+
+
+
 -----------------------------
 
 
