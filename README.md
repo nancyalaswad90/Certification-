@@ -76,3 +76,18 @@
 
 - Excel Training courses : [Excel 2010](https://github.com/nancyalaswad90/Certifications/blob/main/Excel%202010.md) , 
 
+
+
+
+
+-----------------------------
+
+
+> ## Health and Medical
+
+
+
+
+- [Personal Training ](https://github.com/nancyalaswad90/Certifications/blob/main/Health%20and%20Medical.md)
+
+
