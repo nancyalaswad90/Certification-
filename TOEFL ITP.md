@@ -1,1 +1,1 @@
-![TOEFL ITP](https://user-images.githubusercontent.com/36210723/127165252-3d91d4e2-9be5-4659-a10b-c30a08240212.jpg)
+![TOEFL ITP](https://user-images.githubusercontent.com/36210723/127165512-d43a01b8-bd90-4d77-80e7-057b53096333.jpg)
