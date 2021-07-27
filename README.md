@@ -5,7 +5,14 @@
 > ## Academic Certifications
 
 
-- Master Degree Accounting Marks : [Page 1](https://github.com/nancyalaswad90/Certifications/blob/main/Master%20Marks%20Page%201.md) , [Page 2](https://github.com/nancyalaswad90/Certifications/blob/main/Page%202.md)
+- Master Degree Accounting Marks : [Certification]  /  [Page 1](https://github.com/nancyalaswad90/Certifications/blob/main/Master%20Marks%20Page%201.md) , [Page 2](https://github.com/nancyalaswad90/Certifications/blob/main/Page%202.md)
+
+
+
+- First Bachelor as Accounting  :  Certification  /   Marks [Page 1] , [Page 1] , [Page 1] , [Page 1]
+
+
+- Second Bachelor as  Information Technology and Computing / Undergraduate
 
 
 
