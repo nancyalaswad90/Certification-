@@ -9,7 +9,7 @@
 
 
 
-- First Bachelor as Accounting  :  Certification  /   Marks [Page 1](https://github.com/nancyalaswad90/Certifications/tree/main) , [Page 2](https://github.com/nancyalaswad90/Certifications/blob/main/BA%20%20Page%20%202%20.md) , [Page 3](https://github.com/nancyalaswad90/Certifications/blob/main/Ba%20page%203.md) , [Page 4](https://github.com/nancyalaswad90/Certifications/blob/main/BA%20Accountant%20%20page%201.md)
+- First Bachelor as Accounting  :  Certification  /   Marks [Page 1](https://github.com/nancyalaswad90/Certifications/blob/main/Accounting%20A%20Page%201%20.md) , [Page 2](https://github.com/nancyalaswad90/Certifications/blob/main/BA%20%20Page%20%202%20.md) , [Page 3](https://github.com/nancyalaswad90/Certifications/blob/main/Ba%20page%203.md) , [Page 4](https://github.com/nancyalaswad90/Certifications/blob/main/BA%20Accountant%20%20page%201.md)
 
 
 - Second Bachelor as  Information Technology and Computing / Undergraduate
