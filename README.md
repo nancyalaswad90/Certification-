@@ -24,7 +24,7 @@
 
 - [Prepared Course to Certified Internet Marketing Practitioner ( CIMP)](https://github.com/nancyalaswad90/Certifications/blob/main/Prepared%20Course%20to%20Certified%20Internet%20Marketing%20Practitioner%20(%20CIMP).md)
 
-- [Jordanian Certified Public Accountant / JCPA]()
+- [Jordanian Certified Public Accountant / JCPA](https://github.com/nancyalaswad90/Certifications/blob/main/Jordanian%20Certified%20Public%20Accountant%20-%20JCPA.md)
 
 -----------------------------
 
