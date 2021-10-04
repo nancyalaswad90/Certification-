@@ -91,6 +91,10 @@
 
 
 
+- [Oracle Database 12c](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20Database%2012c.md)
+
+
+
 
 -----------------------------
 
