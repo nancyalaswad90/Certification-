@@ -31,6 +31,14 @@
 
 - [International Financial Reporting Standards (IFRS)](https://github.com/nancyalaswad90/Certifications/blob/main/International%20Financial%20Reporting%20Standards%20(IFRS).md)
 
+
+
+- [Financial Analyst](https://github.com/nancyalaswad90/Certifications/blob/main/Financial%20Analyst.md)
+
+
+
+
+
 -----------------------------
 
 
