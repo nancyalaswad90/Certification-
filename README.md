@@ -78,10 +78,19 @@
 
 - [Oracle Essentials Application R12](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20Essentials%20Application%20R12.md)
 
+
+
 - [Oracle General Ledger Application R12](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20General%20Ledger%20Application%20R12.md)
 
 
 - [Oracle Report Developer 10g](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20Report%20Developer%2010g.md)
+
+
+
+- [Oracle Forms Developer 10g](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20Forms%20Developer%2010g.md)
+
+
+
 
 -----------------------------
 
