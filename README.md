@@ -78,7 +78,7 @@
 > ## Programming Certifications
 
 
-- Certification as Oracle developer professional  : [Fundimental] (https://github.com/nancyalaswad90/Certifications/blob/main/Certification%20as%20FundimentalOracle%20developer%20professional%20%20.md) & [Pl-Sql.]() & [form]()
+- Certification as Oracle developer professional  : [Fundimental](https://github.com/nancyalaswad90/Certifications/blob/main/Certification%20as%20FundimentalOracle%20developer%20professional%20%20.md) & [Pl-Sql.]() & [form]()
 
 
 - [Oracle Essentials Application R12](https://github.com/nancyalaswad90/Certifications/blob/main/Oracle%20Essentials%20Application%20R12.md)
